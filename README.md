@@ -29,5 +29,15 @@ Y el cuadro de dialogo para finalizar programa.
 ![Funcionamiento de la Aplicacion](https://github.com/MatiasJB95/ChallengeoneConversorLatam/blob/main/.settings/App5.png)
 
 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasjb95/)
+
+https://app.aluracursos.com/emprega-one/profile/matiasss95
+![cms_files_10224_1671211831Prancheta_8](https://github.com/MatiasJB95/ChallengeoneConversorLatam/assets/115195236/0a540898-9828-4bd6-be44-a730cd461001)
+
+
+
+
 
 
