@@ -1,26 +1,37 @@
-# ChallengeoneConversorLatam
+# Challenge One ConversorLatam
 
-Conversor de Distancias y Monedas, siguiendo las consignas obligatorias, pero la parte estetica preferi trabajarlo de otra forma a lo que se daba como ejemplo.
+## Descripción
 
-Requisitos Cumplidos:
-- El convertidor de moneda debe: 
+Este proyecto es parte del desafío de entrevista de trabajo ConversorLatam. Se trata de un conversor de distancias y monedas que cumple con las consignas obligatorias. La parte estética se ha implementado de una forma distinta a lo que se muestra en el ejemplo proporcionado.
 
-       - Convertir de la moneda de tu país a Dólar
-       - Convertir de la moneda de tu país  a Euros
-       - Convertir de la moneda de tu país  a Libras Esterlinas
-       - Convertir de la moneda de tu país  a Yen Japonés
-       - Convertir de la moneda de tu país  a Won sul-coreano
-Recordando que también debe ser posible convertir inversamente, es decir:
+## Requisitos Cumplidos
 
-       - Convertir de Dólar a la moneda de tu país
-       - Convertir de Euros a la moneda de tu país
-       - Convertir de Libras Esterlinas a la moneda de tu país
-       - Convertir de Yen Japonés a la moneda de tu país
-       - Convertir de Won sul-coreano a la moneda de tu país
+El convertidor de moneda permite las siguientes conversiones:
 
+- Convertir de la moneda local a Dólar.
+- Convertir de la moneda local a Euros.
+- Convertir de la moneda local a Libras Esterlinas.
+- Convertir de la moneda local a Yen Japonés.
+- Convertir de la moneda local a Won sul-coreano.
 
-Y el cuadro de dialogo para finalizar programa.
-## Imagenes
+Además, se puede realizar conversiones inversas, es decir:
+
+- Convertir de Dólar a la moneda local.
+- Convertir de Euros a la moneda local.
+- Convertir de Libras Esterlinas a la moneda local.
+- Convertir de Yen Japonés a la moneda local.
+- Convertir de Won sul-coreano a la moneda local.
+
+El programa también incluye un cuadro de diálogo para finalizar la ejecución.
+
+## Habilidades trabajadas
+
+- **Java**: Lenguaje de programación utilizado para el desarrollo del conversor.
+- **Programación orientada a objetos**: Utilización de conceptos de POO como clases, objetos, herencia y polimorfismo para estructurar y organizar el código.
+- **Algoritmos de conversión**: Implementación de algoritmos para realizar conversiones de moneda utilizando los tipos de cambio correspondientes.
+- **Interfaz de usuario**: Desarrollo de una interfaz gráfica para interactuar con el usuario y mostrar los resultados de las conversiones.
+- **Manejo de eventos**: Uso de eventos y listeners para detectar las acciones del usuario y realizar las operaciones de conversión correspondientes.
+- **Finalización de programa**: Implementación de un cuadro de diálogo para permitir al usuario finalizar la ejecución del programa de manera controlada.
 
 ![Funcionamiento de la Aplicacion](https://github.com/MatiasJB95/ChallengeoneConversorLatam/blob/main/.settings/app1.png)
 ![Funcionamiento de la Aplicacion](https://github.com/MatiasJB95/ChallengeoneConversorLatam/blob/main/.settings/App2.png)
