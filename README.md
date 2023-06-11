@@ -1,8 +1,7 @@
 # Challenge One ConversorLatam
 
 ## Descripción
-
-Este proyecto es parte del desafío de entrevista de trabajo ConversorLatam. Se trata de un conversor de distancias y monedas que cumple con las consignas obligatorias. La parte estética se ha implementado de una forma distinta a lo que se muestra en el ejemplo proporcionado.
+Se trata de un conversor de monedas que cumple con las consignas obligatorias. La parte estética se ha implementado de una forma distinta a lo que se muestra en el ejemplo proporcionado.
 
 ## Requisitos Cumplidos
 
